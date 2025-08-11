@@ -13,11 +13,17 @@ A modern, responsive freelance marketplace frontend built with React and Vite, f
 src/
 
   assets/        # Images, icons, fonts
+  
   components/    # Reusable UI components
+  
   pages/         # Main pages
+  
   redux/         # State management
+  
   services/      # API calls
+  
   utils/         # Helper functions
+  
 public/          # Static files
 
 git clone https://github.com/your-username/freelance-app-.git
