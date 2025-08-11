@@ -11,6 +11,7 @@ A modern, responsive freelance marketplace frontend built with React and Vite, f
 
 ## 📂 Project Structure
 src/
+
   assets/        # Images, icons, fonts
   components/    # Reusable UI components
   pages/         # Main pages
